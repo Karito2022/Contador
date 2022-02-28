@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+.container{
+	margin: 5rem auto;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
